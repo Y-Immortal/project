@@ -155,9 +155,11 @@
                     android:textSize="15sp" />
 
                 <ImageView
-                    android:layout_width="25dp"
-                    android:layout_height="25dp"
-                    android:src="@drawable/cellular" />
+                    android:layout_width="15dp"
+                    android:layout_height="15dp"
+                    android:src="@drawable/more"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginStart="5dp"/>
 
             </LinearLayout>
 
